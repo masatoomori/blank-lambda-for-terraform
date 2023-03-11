@@ -1,0 +1,5 @@
+{
+  "bucket": "[AWS environment name]-lambda-repository",
+  "module": "[module name in Terraform]",
+  "function_name": "[Lambda function name]"
+}

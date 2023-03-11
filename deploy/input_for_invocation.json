@@ -1,0 +1,11 @@
+{
+    "Records":[{
+        "responseElements":{
+            "x-amz-request-id": "local_test"
+        },
+        "s3": {
+            "s3SchemaVersion": "1.0",
+            "configurationId": "ID found in the bucket notification configuration"
+        }
+    }]
+}
